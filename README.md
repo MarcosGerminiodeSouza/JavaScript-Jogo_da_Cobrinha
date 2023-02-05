@@ -1,5 +1,7 @@
-# JavaScript_Jogo_da_Cobrinha
- ### Recriando o Jogo da Cobrinha
- - JavaScript
- - HTML5
- - CSS3
+# JOGO DA COBRINHA
+
+Recriando o Jogo da Cobrinha utilizando HTML, CSS e JavaScript
+
+## Desafio DIO
+
+Este projeto é um desafio proposto na plataforma Digital Inovation One
